@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.calculator{
+    margin: 10% 35%;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 300px;
+}
+.container input{
+    width: 89%;
+    height: 25px;
+    padding: 10px 20px;
+    margin-bottom:20px ;
+}
+button{
+    height: 35px;
+    width: 50px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 4px;
+    font-size: 15px;
+    margin-left: 32px;
+}
